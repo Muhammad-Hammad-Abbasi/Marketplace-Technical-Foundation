@@ -1,0 +1,4 @@
+Test Case ID,Description,Test Steps,Expected Result,Actual Result,Status,Severity,Priority,Date,Tester Name,Remarks 
+TC001,Login with valid credentials,Enter username and password and click login,User should be redirected to the dashboard,Redirected to the dashboard,Pass,N/A,High,2025-01-15,John Doe,
+TC002,Login with invalid password,Enter username and incorrect password,Error message should be displayed,Error message displayed,Pass,N/A,High,2025-01-15,John Doe, 
+TC003,View profile without login,Access the profile page without logging in,User should be redirected to login page,Remains on profile page,Fail,Major,Medium,2025-01-15,John Doe,Issue logged in ticket #12345

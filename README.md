@@ -1,6 +1,6 @@
 
 # **E-commerce Platform Documentation**
-=======
+
 # **My E-commerce Platform Documentation**
 
 

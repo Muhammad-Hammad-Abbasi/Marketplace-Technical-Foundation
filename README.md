@@ -1,8 +1,4 @@
-
-# **E-commerce Platform Documentation**
-
 # **My E-commerce Platform Documentation**
-
 
 ## **1. Project Overview**
 

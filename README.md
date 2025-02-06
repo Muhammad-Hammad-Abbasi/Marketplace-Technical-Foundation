@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # **E-commerce Platform Documentation**
+=======
+# **My E-commerce Platform Documentation**
+>>>>>>> 6437e3323ff5401ed4758e0eb117536eed1f69ea
 
 ## **1. Project Overview**
 
